@@ -11,6 +11,7 @@ namespace First_program_git.git
         private int x, y;
         public Point()
         {
+
         }
         public Point(int x, int y)
         {
