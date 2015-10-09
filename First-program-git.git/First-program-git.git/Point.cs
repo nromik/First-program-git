@@ -17,5 +17,27 @@ namespace First_program_git.git
             this.x = x;
             this.y = y;
         }
+       public int X
+       {
+            set
+            {
+                this.x = value;
+            }
+            get
+            {
+                return this.x;
+            }
+        }
+       public int Y
+       {
+           set
+           {
+               this.y = value;
+           }
+           get
+           {
+               return this.y;
+           }
+       }
     }
 }

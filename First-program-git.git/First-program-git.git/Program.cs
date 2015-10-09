@@ -10,7 +10,10 @@ namespace First_program_git.git
     {
         static void Main(string[] args)
         {
+            Point p1 = new Point(2, 6);
             Console.WriteLine("Hello World");
+            Console.WriteLine(p1.X + " "+  p1.Y);
         }
+
     }
 }
