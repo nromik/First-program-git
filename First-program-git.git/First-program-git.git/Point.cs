@@ -8,8 +8,14 @@ namespace First_program_git.git
 {
     class Point
     {
+        private int x, y;
         public Point()
         {
+        }
+        public Point(int x, int y)
+        {
+            this.x = x;
+            this.y = y;
         }
     }
 }
