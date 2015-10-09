@@ -10,7 +10,6 @@ namespace First_program_git.git
     {
         public Point()
         {
-
         }
     }
 }
