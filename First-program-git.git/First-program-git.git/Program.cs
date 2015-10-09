@@ -11,6 +11,9 @@ namespace First_program_git.git
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World");
+
+
+            Console.WriteLine("Hello World2");
         }
     }
 }
